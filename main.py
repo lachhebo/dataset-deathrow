@@ -53,13 +53,14 @@ def __main__():
     d = {
         'id': columns[0],
         'inmate_info_link': columns[1],
-        'lastname': columns[2],
-        'fistname': columns[3],
-        'TDCJ': columns[4],
-        'age': columns[5],
-        'date': columns[6],
-        'race': columns[7],
-        'country': columns[8],
+	'lastwords_info_link':columns[2],
+        'lastname': columns[3],
+        'fistname': columns[4],
+        'TDCJ': columns[5],
+        'age': columns[6],
+        'date': columns[7],
+        'race': columns[8],
+        'country': columns[9],
         'lastwords': columns[10]
     }
 
